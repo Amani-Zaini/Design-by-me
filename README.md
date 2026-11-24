@@ -1,2 +1,7 @@
 # Design-by-me
-aimed to create a platform that brings together people interested in interior design, The platform is user-friendly, making it accessible even to those unfamiliar with interior design.✨
+### Key features of our platform include💡:
+- Augmented Reality (AR): Visualize furniture in your space before purchasing.
+- Design Creation and Collaboration: Users can create, save, and edit designs, as well as explore designs shared by others.
+- Invoicing System: Tracks project costs with items linked to brands like IKEA and Homecenter, ensuring accurate budget management.
+- Professional Feedback: Direct messaging with interior designers for guidance and feedback.
+
